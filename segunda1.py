@@ -3,3 +3,8 @@ print("para numeros nao precisamos aspas, só colocar o numero dentro dos parent
 print(10)
 print("agora começa a ficar um poucon interessante, pois como não precisa colocar em aspas facilita pra fazer calculos nos prints")
 print(10+5)
+print(10+10)
+print(10-5)
+print(100/2)
+print("Podemos colocar várias coisas no mesmo print()")
+print("minha idade é, 43")
