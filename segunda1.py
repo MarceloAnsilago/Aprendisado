@@ -1,3 +1,5 @@
 print("aprendendo isso que ja sei so pra mamanter o foco")
 print("para numeros nao precisamos aspas, só colocar o numero dentro dos parenteses")
 print(10)
+print("agora começa a ficar um poucon interessante, pois como não precisa colocar em aspas facilita pra fazer calculos nos prints")
+print(10+5)
