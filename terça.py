@@ -34,3 +34,16 @@ print(f"meu nome é {nome} e minha idade é {idade}")
 
 idade = int(input("qual é a sua idade? "))
 print(idade + 10)
+
+print("===================")
+print("aula de sexta-feira")
+print("===================")
+
+nome = input("qual é o seu nome? ")
+idade = int(input("qual é a sua idade? "))
+
+print()
+print(f"meu nome é {nome} e minha idade é {idade}")
+print(f"daqui a 10 anos minha idade será {idade + 10}")
+
+print("===================")
