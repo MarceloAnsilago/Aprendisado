@@ -19,3 +19,7 @@ idade = 44
 ano = 2026
 
 print(ano-idade)
+
+print("===================")
+print("aula de sexta-feira")
+print("===================")
