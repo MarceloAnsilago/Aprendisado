@@ -23,3 +23,14 @@ print(ano-idade)
 print("===================")
 print("aula de sexta-feira")
 print("===================")
+
+nome = input("qual é o seu nome? ")
+print( f"meu nome é {nome}")
+print(f"Seja bem vindo {nome}")
+
+nome = input("qual é o seu nome? ")
+idade = input("qual é a sua idade? ")
+print(f"meu nome é {nome} e minha idade é {idade}")
+
+idade = int(input("qual é a sua idade? "))
+print(idade + 10)
